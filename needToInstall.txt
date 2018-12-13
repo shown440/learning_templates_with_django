@@ -1,0 +1,7 @@
+Normal installation:
+-------------------
+
+Inside Virtual Environment:
+---------------------------
+	1. pip install --upgrade Faker
+	site: "faker.readthedocs.io/en/master/"
